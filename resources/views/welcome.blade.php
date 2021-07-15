@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Elena Prieto
+                Laravel Ele 2
                 </div>
 
                 <div class="links">
