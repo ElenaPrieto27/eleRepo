@@ -17,5 +17,14 @@ class Controller extends BaseController
                 return json_encode(elena2::all());
         }
 
-        
+        public function add(Request $R){
+                $Kito = new elena2();
+                $Kito->nombre = $R->nombre;
+                $Kito->apellido = $R->apellido;
+                $Kito->id = $R->id;
+                $Kito->origen = $_SERVER["SERVER_ADDR"];
+                $Kito->save();
+
+                return elena2::all();
+        }
 }
