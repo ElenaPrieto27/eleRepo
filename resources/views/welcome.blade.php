@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Ele 1
+                    Laravel Ele 2
                 </div>
 
                 <div class="links">
