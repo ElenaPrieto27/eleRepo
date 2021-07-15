@@ -7,6 +7,6 @@ use Illuminate\Database\Eloquent\Model;
 class elena2 extends Model
 {
     public $primarykey="id";
-    protected $timestams=false;
+    protected $timestamps=false;
     protected $table = "elena2";
 }
