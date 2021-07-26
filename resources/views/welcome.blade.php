@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                Elena Prieto 2
+                Elena Prieto 
                 </div>
 
                 <div class="links">
